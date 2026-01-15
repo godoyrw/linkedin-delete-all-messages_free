@@ -1,6 +1,4 @@
-# linkedin-delete-all-messages_free
-
-LinkedIn Delete All Messages 🧹
+# LinkedIn Delete All Messages 🧹
 
 Automação em JavaScript para exclusão em massa de conversas no LinkedIn, executada diretamente pelo Console do Navegador.
 Criado para acelerar a produtividade e contornar a ausência de um botão nativo de “Excluir Tudo”.
